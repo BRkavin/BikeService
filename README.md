@@ -8,7 +8,7 @@ This project is a bike service application that allows bike service station owne
 
 First, **Login as an owner** and add the necessary service details provided at the bottom. For more details, please refer to the **owner flow**. After that, **Login as a customer** to view all services in that city's service station.
 
-# Note: 
+# Installation: 
   To run the project, install  [Node js](https://nodejs.org/en/download/package-manager/current) and [MongoDB Compass](https://www.mongodb.com/try/download/compass).
 
   Download the project and run each frontend and backend in separate terminals with **npm start**.
