@@ -12,6 +12,8 @@ First, **Login as an owner** and add the necessary service details provided at t
   To run the project, install  [Node js](https://nodejs.org/en/download/package-manager/current) and [MongoDB Compass](https://www.mongodb.com/try/download/compass).
 
   Download the project and run each frontend and backend in separate terminals with **npm start**.
+  
+  Before running the **backend folder with npm start**  . please install express using  **npm install express**
 
 ## Project Flow
 
