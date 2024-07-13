@@ -11,12 +11,23 @@ Visit the website: <a href="https://bikeservice-omega.vercel.app/" style="font-s
 
 When you visite this website follow this two steps:
 
-   - First, **Login as an owner** and add the necessary service details provided at the bottom. For more details, please refer to the **owner flow**. After that, **Login as a customer** to view all services in that city's service station.
+   - First, **Login as an owner** and add the necessary service details provided at the bottom. For more details, please refer to the **owner flow**.
+   - Next **Login as a customer** to view all services in that city's service station and below workflow.
 
+# NOTE : Login with provided email and password in  Setting Up Twilio for OTP
    - When you log in as a customer and  click the **Book Now** button. It will show the OTP box to enter the OTP sent to your mobile number. For that, you need to add your mobile number in the Twilio website for OTP generation. So follow **step 9 in Setting Up Twilio for OTP**.
+
+**click the add caller ID  button**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b899aa49-033e-4b26-91c2-fcfc52bd48e8" alt="Image" width="700"/>
+  <img src="https://github.com/user-attachments/assets/b899aa49-033e-4b26-91c2-fcfc52bd48e8" alt="Image" style="width: 700px;"/>
 </p>
+
+ **verify customer mobile number that  your are registered and then mobile number get add in it and you will recieve OTP.**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3540add0-baf9-4a8b-9386-2a7fc313855a" alt="Image" style="width: 700px;"/>
+</p>
+
 
 # Installation: 
   To run the project, install  [Node js](https://nodejs.org/en/download/package-manager/current) and [MongoDB Compass](https://www.mongodb.com/try/download/compass).
@@ -268,6 +279,8 @@ Owners can add services provided in their city. When a customer books a service,
 ## Note
 
 To send and receive emails between owners and customers, make sure to enable [Less Secure Apps in Gmail](https://myaccount.google.com/u/0/lesssecureapps) on owner email.
+![image](https://github.com/user-attachments/assets/2fcf21d2-6626-4412-a233-45f907b4e789)
+
 
 ## Service Content
 
