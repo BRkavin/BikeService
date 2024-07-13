@@ -9,8 +9,11 @@ This project is a bike service application that allows bike service station owne
 
 Visit the website: <a href="https://bikeservice-omega.vercel.app/" style="font-size:40rem;">Bike Service Website</a>
 
+When you visite this website follow this two steps:
 
-First, **Login as an owner** and add the necessary service details provided at the bottom. For more details, please refer to the **owner flow**. After that, **Login as a customer** to view all services in that city's service station.
+   - First, **Login as an owner** and add the necessary service details provided at the bottom. For more details, please refer to the **owner flow**. After that, **Login as a customer** to view all services in that city's service station.
+
+   - When you log in as a customer and  click the **Book Now** button. It will show the OTP box to enter the OTP sent to your mobile number. For that, you need to add your mobile number in the Twilio website for OTP generation. So follow **step 9 in Setting Up Twilio for OTP**.
 
 # Installation: 
   To run the project, install  [Node js](https://nodejs.org/en/download/package-manager/current) and [MongoDB Compass](https://www.mongodb.com/try/download/compass).
@@ -50,16 +53,6 @@ There are two owners with different service stations:
   - City: Gobi
 
 You can add more owners in the `Login.jsx` file in the owners array.
-
-### 3. Customer Flow
-
-- Customers need to register if they don't have an account, or log in if they do.
-- Customers can view their profile and bookings.
-- After logging in, customers can see the services available at their city's workstation.
-- Customers can send messages or queries through the contact us footer.
-- Clicking "View Details" on a service redirects to the `ServiceDetails` page.
-- On the `ServiceDetails` page, customers can see complete details of the service and click "Book Now," which prompts OTP verification sent to their registered mobile number.
-- OTP is sent via Twilio. Follow these steps to set up Twilio:
 
 
 ### 3. Database Schemas
@@ -197,6 +190,16 @@ Smaple Data
 ```
 
 ---
+### 4. Customer Flow
+
+- Customers need to register if they don't have an account, or log in if they do.
+- Customers can view their profile and bookings.
+- After logging in, customers can see the services available at their city's workstation.
+- Customers can send messages or queries through the contact us footer.
+- Clicking "View Details" on a service redirects to the `ServiceDetails` page.
+- On the `ServiceDetails` page, customers can see complete details of the service and click "Book Now," which prompts OTP verification sent to their registered mobile number.
+- OTP is sent via Twilio. Follow these steps to set up Twilio:
+
 
 ## Setting Up Twilio for OTP
 
