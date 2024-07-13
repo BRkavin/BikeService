@@ -6,6 +6,10 @@
 
 This project is a bike service application that allows bike service station owners and customers to manage bike services, bookings, and queries. The application includes separate dashboards for owners and customers, and integrates Twilio for OTP verification.
 
+
+Visit the website: <a href="https://bikeservice-omega.vercel.app/" style="font-size:40rem;">Bike Service Website</a>
+
+
 First, **Login as an owner** and add the necessary service details provided at the bottom. For more details, please refer to the **owner flow**. After that, **Login as a customer** to view all services in that city's service station.
 
 # Installation: 
