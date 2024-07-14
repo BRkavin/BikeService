@@ -289,7 +289,7 @@ To send and receive emails between owners and customers, make sure to enable [Le
 **Description:**
 Keep your bike running smoothly and efficiently with our Comprehensive Bike Oil Change service. Regular oil changes are crucial for maintaining your bike’s engine performance and longevity. Our expert technicians will ensure that your bike receives the best care with high-quality engine oil specifically designed for your bike’s make and model.
 
-**What's Included:**
+**What Included:**
 - Premium Engine Oil: We use top-grade engine oil to provide optimal lubrication, reduce friction, and enhance the overall performance of your bike’s engine.
 - Oil Filter Replacement: We replace the old oil filter with a new one to ensure the engine oil stays clean and effective for longer periods.
 - Engine Health Check: Our technicians perform a thorough inspection of your bike’s engine components to identify any potential issues early on.
@@ -301,7 +301,7 @@ Keep your bike running smoothly and efficiently with our Comprehensive Bike Oil 
 **Description:**
 Ensure your bike stays in top condition with our thorough General Service Check-Up. Regular maintenance is essential for the safety and longevity of your bike. Our experienced technicians will perform a comprehensive inspection and tune-up to keep your bike running smoothly and efficiently.
 
-**What's Included:**
+**What Included:**
 - Complete Bike Inspection: Our technicians will conduct a detailed examination of your bike, checking all vital components for wear and tear, ensuring everything is in good working order.
 - Brake System Check: We inspect and adjust the brake system, ensuring optimal performance and safety. This includes checking brake pads, cables, and fluid levels.
 - Chain and Sprocket Maintenance: We clean, lubricate, and adjust the chain and sprockets to ensure smooth and efficient power transfer.
@@ -314,7 +314,7 @@ Ensure your bike stays in top condition with our thorough General Service Check-
 **Description:**
 Keep your bike looking pristine and running smoothly with our professional Water Wash service. Regular cleaning is essential to maintain your bike’s appearance and performance. Our skilled technicians will thoroughly clean your bike, ensuring it stays in top condition and free from dirt, grime, and debris.
 
-**What's Included:**
+**What Included:**
 - Complete Bike Cleaning: Our technicians perform a thorough cleaning of your bike, removing dirt, grime, and debris from all surfaces to restore its original shine.
 - High-Pressure Water Wash: We use high-pressure water jets to effectively clean hard-to-reach areas, ensuring every part of your bike is spotless.
 - Engine Cleaning: We clean the exterior of the engine, removing dirt and grime that can affect performance and appearance.
