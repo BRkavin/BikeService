@@ -219,8 +219,14 @@ Smaple Data
 
 1. Go to [Twilio](https://www.twilio.com/en-us).
    - Login with:
-     - **Email:** kavinbr.20msc@kongu.edu
-     - **Password:** Kavinbr@15102002
+     
+     - **Email:** naveenkumars.20msc@kongu.edu
+     - **Password:** Naveenkumars@1510
+       
+     If it ask code  then click try another method and enter the below recovery code.
+   
+     - **Recovery code:** MN28TLEX6KQK6X3JQ5JKGCAB
+       
    - Then go to step 8 and 9 directly or follow all steps below if you need to create a new account.
 
 2. Click "Products" and choose "Verify," then click "START FOR FREE."
